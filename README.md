@@ -213,7 +213,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 
 
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/najirr)
+- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/youssef-adel-783a72218)
 
 
 
